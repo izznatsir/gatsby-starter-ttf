@@ -29,7 +29,7 @@ Kick off your project with this typesript-tailwind-framer boilerplate. This star
 
     ```shell
     # create a new Gatsby site using the hello-world starter
-    gatsby new my-ts-tailwind-project https://github.com/izznatsir/gatsby-starter-ttf
+    gatsby new my-ttf-project https://github.com/izznatsir/gatsby-starter-ttf
     ```
 
 1.  **Start developing.**
@@ -37,7 +37,7 @@ Kick off your project with this typesript-tailwind-framer boilerplate. This star
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd my-ts-tailwind-project/
+    cd my-ttf-project/
     gatsby develop
     ```
 
