@@ -1,0 +1,50 @@
+{
+  "name": "gatsby-starter-ttf",
+  "version": "1.0.0",
+  "description": "Kick off your project with this typesript-tailwind-framer boilerplate. This starter is a Typescript starter that includes Tailwind CSS and Framer Motion and some additional packages and plugins to let you start right away.",
+  "main": "index.js",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{ts,tsx,js,jsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "keywords": [
+    "gatsby-starter",
+    "gatsby",
+    "typescript",
+    "tailwind",
+    "framer-motion",
+    "prettier"
+  ],
+  "author": "Izzuddin Natsir",
+  "license": "ISC",
+  "dependencies": {
+    "framer-motion": "^1.8.4",
+    "gatsby": "^2.19.12",
+    "gatsby-image": "^2.2.40",
+    "gatsby-plugin-manifest": "^2.2.41",
+    "gatsby-plugin-postcss": "^2.1.20",
+    "gatsby-plugin-react-helmet": "^3.1.22",
+    "gatsby-plugin-sharp": "^2.4.5",
+    "gatsby-plugin-typescript": "^2.1.27",
+    "gatsby-source-filesystem": "^2.1.48",
+    "gatsby-transformer-sharp": "^2.3.14",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-helmet": "^5.2.1"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^2.0.6",
+    "@types/node": "^13.7.0",
+    "@types/react": "^16.9.19",
+    "@types/react-dom": "^16.9.5",
+    "@types/react-helmet": "^5.0.15",
+    "autoprefixer": "^9.7.4",
+    "prettier": "^1.19.1",
+    "tailwindcss": "^1.2.0"
+  }
+}
