@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Gatsby - TTF Starter',
-    description: `Kick off your project with this typesript-tailwind-framer boilerplate. This starter is a Typescript starter that includes Tailwind CSS and Framer Motion and some additional packages and plugins to let you start right away.`,
+    description: `Kick off your project with this typesript-tailwind-framer starter. This starter is a Typescript starter that includes Tailwind CSS and Framer Motion and some additional packages and plugins to let you start right away.`,
     author: 'Izzuddin Natsir',
   },
   plugins: [
